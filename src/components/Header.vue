@@ -104,9 +104,9 @@
 
       <nav class="nav">
         <ul>
-          <li><a href="#inicio">Inicio</a></li>
-          <li><a href="#tasador">Tasador</a></li>
-          <li><a href="#comparador">Comparador</a></li>
+          <li><a href="/">Inicio</a></li>
+          <li><a href="tasador">Tasador</a></li>
+          <li><a href="comparador">Comparador</a></li>
         </ul>
       </nav>
     </div>
