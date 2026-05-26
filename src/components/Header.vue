@@ -99,7 +99,7 @@
   <header class="header">
     <div class="container">
       <div class="logo">
-        <a href="/">MiProyecto</a>
+        <a href="/">Alokatzaile</a>
       </div>
 
       <nav class="nav">
