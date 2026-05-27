@@ -41,6 +41,10 @@
   letter-spacing: -0.5px;
 }
 
+.logo-img {
+  height: 2rem;
+}
+
 /* Navegación */
 .nav ul {
   list-style: none;
@@ -99,6 +103,7 @@
   <header class="header">
     <div class="container">
       <div class="logo">
+        <img src="/logo.png" alt="Logo Rent Comparer" class="logo-img" />
         <a href="/">Alokatzaile</a>
       </div>
 
